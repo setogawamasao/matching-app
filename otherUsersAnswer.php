@@ -38,7 +38,16 @@
         // クエリの実行結果の取得
         while ($row = $stmt->fetch()){
           array_push($answers,$row["q".$questionNo]);
-          array_push($answerNums,$row['count']);
+          array_push($answerNums,$row['count'] );
+        }
+        // 件数が0件だった時に０を入れる
+        for ($i = 1; $i <= 3; $i++) {
+          if (!array_key_exists($i, $answers)) {
+            array_push($answers,0);
+          }
+          if (!array_key_exists($i, $answerNums)) {
+            array_push($answerNums,0);
+          }
         }
       }
       // エラーが発生した場合
