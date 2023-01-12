@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss>
+<!-- インデックスを合わせるためのダミーデータ -->
+	<question>
+		<questionText></questionText>
+		<nextFormAction></nextFormAction>
+		<imageName></imageName>
+		<answer1Text></answer1Text>
+		<answer1Point></answer1Point>
+		<answer2Text></answer2Text>
+		<answer2Point></answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- question1 -->
+	<question>
+		<questionText>同時にやってたら、どの番組を選ぶ？</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>retro-tv-with-static-on-screen_4460x4460.jpg</imageName>
+		<answer1Text>お笑い番組</answer1Text>
+		<answer1Point>20</answer1Point>
+		<answer2Text>ジャニーズ特番</answer2Text>
+		<answer2Point>0</answer2Point>
+		<answer3Text>ディズニー映画</answer3Text>
+		<answer3Point>0</answer3Point>
+	</question>
+<!-- question2 -->
+	<question>
+		<questionText>私物はピンク色が多い</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>sandrachile-259666-unsplash.jpg</imageName>
+		<answer1Text>はい</answer1Text>
+		<answer1Point>0</answer1Point>
+		<answer2Text>いいえ</answer2Text>
+		<answer2Point>10</answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- question3 -->
+	<question>
+		<questionText>デートのとき、行きたいのはどっち?</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>first-date_4460x4460.jpg</imageName>
+		<answer1Text>ホテルのバイキング</answer1Text>
+		<answer1Point>0</answer1Point>
+		<answer2Text>古民家カフェ</answer2Text>
+		<answer2Point>10</answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- question4 -->
+    <question>
+		<questionText>恋人を選ぶうえで、顔は重要?</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>couple-wrapped-in-pride-flag-kiss_4460x4460.jpg</imageName>
+		<answer1Text>はい</answer1Text>
+		<answer1Point>0</answer1Point>
+		<answer2Text>いいえ</answer2Text>
+		<answer2Point>20</answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+    </question>
+<!-- question5 -->
+    <question>
+		<questionText>他人から幸が薄そうと言われたことがある</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>girl-in-pink-looking-down-at-grass_4460x4460.jpg</imageName>
+		<answer1Text>はい</answer1Text>
+		<answer1Point>10</answer1Point>
+		<answer2Text>いいえ</answer2Text>
+		<answer2Point>0</answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- question6 -->
+	<question>
+		<questionText>ペットに名前を付けるとしたら？</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>black-tie-dog_4460x4460.jpg</imageName>
+		<answer1Text>ココア</answer1Text>
+		<answer1Point>0</answer1Point>
+		<answer2Text>がんも</answer2Text>
+		<answer2Point>10</answer2Point>
+		<answer3Text>マロン</answer3Text>
+		<answer3Point>0</answer3Point>
+	</question>
+<!-- question7 -->
+    <question>
+		<questionText>一人の時間も大切</questionText>
+		<nextFormAction>question.php</nextFormAction>
+		<imageName>business-women-in-modern-office_4460x4460.jpg</imageName>
+		<answer1Text>はい</answer1Text>
+		<answer1Point>20</answer1Point>
+		<answer2Text>いいえ</answer2Text>
+		<answer2Point>0</answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- 最後 -->
+	<question>
+		<questionText>LAST</questionText>
+		<nextFormAction></nextFormAction>
+		<imageName></imageName>
+		<answer1Text></answer1Text>
+		<answer1Point></answer1Point>
+		<answer2Text></answer2Text>
+		<answer2Point></answer2Point>
+		<answer3Text></answer3Text>
+		<answer3Point></answer3Point>
+	</question>
+<!-- 結果コメント -->
+	<resultText>せとがわまさおとは違った感性をお持ちです。<![CDATA[<br>]]>一緒に居ることで、自分には無いものを発見できるかもしれません。</resultText>
+	<resultText>せとがわまさおと似た感性をお持ちです。<![CDATA[<br>]]>ストレスを感じることなく、一緒に居ることができます。</resultText>
+	<resultText>せとがわまさおと相性ピッタリです!<![CDATA[<br>]]>すぐにツイッターからせとがわまさおに連絡しましょう!<![CDATA[<br><div style="text-align:center"><a href ="javascript:ImageUp();">ツイッターへGO</a></div>]]></resultText>
+</rss>
