@@ -21,9 +21,6 @@
       
       // DB接続情報の宣言
       include "./dbConfig.php";
-      //$dsn = 'mysql:host=localhost;dbname=matchingApp;charset=utf8';
-      //$user = 'matchingAppUser';
-      //$password = 'password';
       
       // DBへ接続
       try {
